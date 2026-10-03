@@ -1,0 +1,4 @@
+:HL["/bolttech-fuse-site/_next/static/chunks/14os1_sgruv5c.css","style"]
+:HL["/bolttech-fuse-site/_next/static/media/dm_sans-s.p.0tm8u-h63rec8.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/bolttech-fuse-site/_next/static/media/manrope-s.p.1p_a2k8qd5zhp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+0:{"tree":{"name":"","param":null,"prefetchHints":4176,"slots":{"children":{"name":"admin","param":null,"prefetchHints":4192,"slots":{"children":{"name":"slug","param":{"type":"c","key":"rules","siblings":[]},"prefetchHints":4192,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":4256,"slots":null}}}}}}},"staleTime":300,"buildId":"ZPswVoc1LFihkrxZyZS2i"}
